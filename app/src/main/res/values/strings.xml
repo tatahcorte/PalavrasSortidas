@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Palavras Sortidas</string>
+    <string name="start">Começar</string>
+    <string name="responder">Responder</string>
+    <string name="recorde">Recorde</string>
+    <string name="ok">Ok</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cuidado">Cuidado</string>
+    <string name="apagar_dados_historico">Isso vai apagar todo o histórico de partidas</string>
+    <string name="nivel">Nivel</string>
+    <string name="pontos">Pontos:</string>
+    <string name="continuar">Continuar</string>
+    <string name="voltar">Voltar</string>
+    <string name="fim_de_jogo">Fim de jogo</string>
+    <string name="mensagem_fim_de_jogo">Acabaram suas chances. Sua pontuaçao final foi:</string>
+    <string name="palavra_oculta">A palavra oculta era: %1$s</string>
+    <string name="voce_acertou">Você acertou!</string>
+    <string name="mensagem_jogo_ganho">Pontos ganhos:</string>
+    <string name="nome_jogador">Digite seu nome</string>
+    <string name="not_login">Não foi possível iniciar sessão</string>
+    <string name="server_client_id">491609802502-6evmrru3fjudkr7he6ib6a71djjflgmg.apps.googleusercontent.com</string>
+    <string name="tempo_acabou">Tempo Acabou!</string>
+    <string name="digite_a_palavra">Digite a Palavra</string>
+</resources>

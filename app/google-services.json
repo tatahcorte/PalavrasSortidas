@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491609802502",
+    "firebase_url": "https://palavrassortidas-214823.firebaseio.com",
+    "project_id": "palavrassortidas-214823",
+    "storage_bucket": "palavrassortidas-214823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491609802502:android:6ee096d104d2a085",
+        "android_client_info": {
+          "package_name": "tatahcorte.jogodaspalavras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491609802502-6ntnk5h118ks7adm1e9lft40hke61m0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tatahcorte.jogodaspalavras",
+            "certificate_hash": "fba2b9731d775498df8df112ba469814c2e7e0bc"
+          }
+        },
+        {
+          "client_id": "491609802502-6evmrru3fjudkr7he6ib6a71djjflgmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKztLCmr71FoQCMG_XVH-WrvQYEH_-I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491609802502-6evmrru3fjudkr7he6ib6a71djjflgmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

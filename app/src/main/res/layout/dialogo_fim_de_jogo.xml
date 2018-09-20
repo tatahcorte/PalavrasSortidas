@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewMensagemPrimaria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/colorForeground"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        tools:text="Mensagem primaria"/>
+    <TextView
+        android:id="@+id/textViewPontos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp"
+        tools:text="+999999"/>
+    <TextView
+        android:id="@+id/textViewMensagemSecundaria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorForeground"
+        android:textAlignment="center"
+        tools:text="Mensagem secondaria"/>
+</LinearLayout>
